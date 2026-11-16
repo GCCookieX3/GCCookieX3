@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lam-hiu-yu-aa159144a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lam-hiu-yu-aa159144a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lam-hiu-yu-aa159144a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lam-hiu-yu-aa159144a/" height="30" width="40" /></a>
 <a href="https://instagram.com/@kelvinlhy06._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kelvinlhy06._.01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gccookiex3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gccookiex3" height="30" width="40" /></a>
 <a href="https://discord.gg/5bQPBW4TVz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5bQPBW4TVz" height="30" width="40" /></a>
